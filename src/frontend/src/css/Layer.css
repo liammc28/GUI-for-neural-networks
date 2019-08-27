@@ -1,0 +1,60 @@
+.layer{
+    height:90px;
+    width:90px;
+    border: 2px solid red;
+    border-radius: 50px;
+    margin-bottom: 8px;
+    background-color: white;
+    margin-right: 5px;
+}
+.conv{
+    height:90px;
+    width:90px;
+
+}
+.dense{
+    height:250px;
+
+
+}
+.input_layer{
+    background-color: #F7F4E9;
+}
+.hidden_layer{
+}
+.output_layer{
+    background-color: #F7F4E9;
+}
+.draggingOver{
+    /*background-color: skyblue;*/
+}
+.layer_left{
+    position: relative;
+    top: 41px; /*4 min for border*/
+    right:2px;
+    height: 1px;
+    width: 1px;
+    border: 2px solid black;
+}
+.layer_right{
+    position: relative;
+    top: 36px; /*4 min for border*/
+    left:86px;
+    height: 1px;
+    width: 1px;
+    border: 2px solid black;
+}
+.layers_height{
+    min-height: 800px;
+}
+
+.delete_wrap{
+    position: relative;
+}
+.delete_wrap .close {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    z-index: 100;
+    height: 20px;
+}

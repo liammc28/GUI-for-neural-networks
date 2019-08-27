@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f017d39-8784-417c-ac5e-f9734ce0f147" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Chart.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Chart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Analyse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Analyse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Chartconfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Chartconfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Classify.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Classify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Design.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Design.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/DesignSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/DesignSummary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Display.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Display.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/DragContextSidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/DragContextSidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/LandingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/LandingPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Layers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Layers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/NewUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/NewUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Summary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/TestAccuracy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/TestAccuracy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Train.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Train.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Verify.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Verify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2138694084">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="55" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="6" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="5" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="5" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="4" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="babelrc" value="11" />
+          <entry key="css" value="95" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="20" />
+          <entry key="iml" value="1" />
+          <entry key="js" value="826" />
+          <entry key="json" value="70" />
+          <entry key="map" value="1" />
+          <entry key="md" value="14" />
+          <entry key="png" value="3" />
+          <entry key="rnc" value="2" />
+          <entry key="ts" value="54" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="95" />
+          <entry key="HTML" value="20" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="81" />
+          <entry key="JSX Harmony" value="757" />
+          <entry key="JavaScript" value="67" />
+          <entry key="Markdown" value="14" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="RNG Compact" value="2" />
+          <entry key="SourceMap" value="1" />
+          <entry key="TypeScript" value="54" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="JavaScript Console" value="2" />
+          <entry key="babelrc" value="28" />
+          <entry key="css" value="2672" />
+          <entry key="dummy" value="336" />
+          <entry key="html" value="59" />
+          <entry key="js" value="85381" />
+          <entry key="json" value="287" />
+          <entry key="txt" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2672" />
+          <entry key="HTML" value="60" />
+          <entry key="JSON" value="315" />
+          <entry key="JSX Harmony" value="76508" />
+          <entry key="JavaScript" value="8856" />
+          <entry key="PLAIN_TEXT" value="432" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="frontend" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/Analyse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4785">
+              <caret line="332" column="54" selection-start-line="332" selection-start-column="54" selection-end-line="332" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/Train.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8925">
+              <caret line="616" column="28" selection-start-line="616" selection-start-column="28" selection-end-line="616" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/DesignSummary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="38" column="56" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/Summary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login</find>
+      <find>tags</find>
+      <find>Loading</find>
+      <find>loadTraining</find>
+      <find>stage=trained</find>
+      <find>mo</find>
+      <find>model_name</find>
+      <find>id</find>
+      <find>inputExamples</find>
+      <find>model_design</find>
+      <find>taskCount</find>
+      <find>MNIST_IMAGES_SPRITE_PATH</find>
+      <find>MNIST_LABELS_PATH</find>
+      <find>legacyBatches</find>
+      <find>startedTraining</find>
+      <find>started</find>
+      <find>input</find>
+      <find>toString</find>
+      <find>batchSize</find>
+      <find>WebGL max</find>
+      <find>conso</find>
+      <find>text</find>
+      <find>testData</find>
+      <find>webGL</find>
+      <find>WebGL</find>
+      <find>validateTextureSize</find>
+      <find>earlyStopping</find>
+      <find>input nodes</find>
+      <find>earlyStop</find>
+      <find>http://localhost:5000/modelInfo?user_id=</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/App.test.js" />
+        <option value="$PROJECT_DIR$/test/DragContextSidebar.test.js" />
+        <option value="$PROJECT_DIR$/test/Home.test.js" />
+        <option value="$PROJECT_DIR$/src/js/Login.js" />
+        <option value="$PROJECT_DIR$/test/Login.test.js" />
+        <option value="$PROJECT_DIR$/test/BatchAccuracy.test.js" />
+        <option value="$PROJECT_DIR$/src/js/BatchAccuracy.js" />
+        <option value="$PROJECT_DIR$/src/js/Welcome.js" />
+        <option value="$PROJECT_DIR$/test/LabelInputText.test.js" />
+        <option value="$PROJECT_DIR$/test/Welcome.test.js" />
+        <option value="$PROJECT_DIR$/src/js/Utils.js" />
+        <option value="$PROJECT_DIR$/test/Utils.test.js" />
+        <option value="$PROJECT_DIR$/test/NewUser.test.js" />
+        <option value="$PROJECT_DIR$/test/EpochLoss.test.js" />
+        <option value="$PROJECT_DIR$/test/Summary.test.js" />
+        <option value="$PROJECT_DIR$/test/Header.test.js" />
+        <option value="$PROJECT_DIR$/E2E testing/test.js" />
+        <option value="$PROJECT_DIR$/testing/test.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/src/js/App.js" />
+        <option value="$PROJECT_DIR$/src/js/Loading.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
+        <option value="$PROJECT_DIR$/src/css/Sidebar.css" />
+        <option value="$PROJECT_DIR$/src/css/Classify.css" />
+        <option value="$PROJECT_DIR$/src/js/Layer.js" />
+        <option value="$PROJECT_DIR$/src/js/DragContextSidebar.js" />
+        <option value="$PROJECT_DIR$/src/js/LandingPage.js" />
+        <option value="$PROJECT_DIR$/src/js/Signup.js" />
+        <option value="$PROJECT_DIR$/src/js/Display.js" />
+        <option value="$PROJECT_DIR$/src/js/Verify.js" />
+        <option value="$PROJECT_DIR$/src/js/NewUser.js" />
+        <option value="$PROJECT_DIR$/src/css/Layer.css" />
+        <option value="$PROJECT_DIR$/src/js/Classify.js" />
+        <option value="$PROJECT_DIR$/src/js/TestAccuracy.js" />
+        <option value="$PROJECT_DIR$/src/js/Chartconfig.js" />
+        <option value="$PROJECT_DIR$/src/js/AllAccuracy.js" />
+        <option value="$PROJECT_DIR$/src/css/Chart.css" />
+        <option value="$PROJECT_DIR$/src/js/Home.js" />
+        <option value="$PROJECT_DIR$/src/js/Layers.js" />
+        <option value="$PROJECT_DIR$/src/js/Design.js" />
+        <option value="$PROJECT_DIR$/node_modules/@tensorflow/tfjs-core/dist/tf-core.esm.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/js/DesignSummary.js" />
+        <option value="$PROJECT_DIR$/src/js/Header.js" />
+        <option value="$PROJECT_DIR$/src/js/RealtimeAnalysis.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/js/Canvas.js" />
+        <option value="$PROJECT_DIR$/src/js/data.js" />
+        <option value="$PROJECT_DIR$/src/js/Train.js" />
+        <option value="$PROJECT_DIR$/src/js/Analyse.js" />
+        <option value="$PROJECT_DIR$/src/js/Summary.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="164" />
+    <option name="width" value="1853" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560850481869" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="/usr/share/npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js" />
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="/usr/bin/nodejs" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="broad" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="broad" />
+      </scripts>
+      <node-interpreter value="/usr/bin/nodejs" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="/usr/bin/nodejs" />
+      <package-manager value="/usr/share/npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="s-test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="s-test" />
+      </scripts>
+      <node-interpreter value="/usr/bin/nodejs" />
+      <package-manager value="/usr/share/npm/bin" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="/usr/bin/nodejs" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Home Page" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/testing/test.js</test-file>
+      <test-names>
+        <name value="Home Page" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.s-test" />
+      <item itemvalue="Mocha.Home Page" />
+      <item itemvalue="npm.broad" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.broad" />
+        <item itemvalue="Mocha.Home Page" />
+        <item itemvalue="npm.s-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f017d39-8784-417c-ac5e-f9734ce0f147" name="Default Changelist" comment="" />
+      <created>1540563296831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540563296831</updated>
+      <workItem from="1540563298080" duration="5560000" />
+      <workItem from="1540569931371" duration="1168000" />
+      <workItem from="1540739990015" duration="13025000" />
+      <workItem from="1541169237923" duration="7936000" />
+      <workItem from="1541437774130" duration="1226000" />
+      <workItem from="1541535362431" duration="192000" />
+      <workItem from="1541594546433" duration="5000" />
+      <workItem from="1542218639368" duration="634000" />
+      <workItem from="1542281501199" duration="605000" />
+      <workItem from="1542380794256" duration="4727000" />
+      <workItem from="1542475963443" duration="9732000" />
+      <workItem from="1542576187006" duration="646000" />
+      <workItem from="1542663658626" duration="984000" />
+      <workItem from="1542713860186" duration="4015000" />
+      <workItem from="1543069849518" duration="16722000" />
+      <workItem from="1543168490626" duration="9748000" />
+      <workItem from="1543190979709" duration="1214000" />
+      <workItem from="1543199267094" duration="7106000" />
+      <workItem from="1543325636685" duration="5018000" />
+      <workItem from="1543424607489" duration="1618000" />
+      <workItem from="1543504025909" duration="41000" />
+      <workItem from="1543504449018" duration="2662000" />
+      <workItem from="1543508972093" duration="3082000" />
+      <workItem from="1543626810872" duration="9130000" />
+      <workItem from="1543669242614" duration="5748000" />
+      <workItem from="1543852216705" duration="1200000" />
+      <workItem from="1544125561261" duration="28000" />
+      <workItem from="1544525451378" duration="3060000" />
+      <workItem from="1548087467392" duration="133000" />
+      <workItem from="1548088086934" duration="5304000" />
+      <workItem from="1548094913860" duration="21000" />
+      <workItem from="1548117093763" duration="375000" />
+      <workItem from="1548239988297" duration="7587000" />
+      <workItem from="1548253885231" duration="11547000" />
+      <workItem from="1548837053576" duration="27196000" />
+      <workItem from="1549282973639" duration="40252000" />
+      <workItem from="1549381150455" duration="14395000" />
+      <workItem from="1549452821443" duration="13324000" />
+      <workItem from="1549635282758" duration="34396000" />
+      <workItem from="1549895610913" duration="15948000" />
+      <workItem from="1549999024759" duration="15784000" />
+      <workItem from="1550019583011" duration="407000" />
+      <workItem from="1550508861447" duration="30182000" />
+      <workItem from="1550687791001" duration="16885000" />
+      <workItem from="1550913226554" duration="19428000" />
+      <workItem from="1551373368800" duration="2933000" />
+      <workItem from="1551877234241" duration="50302000" />
+      <workItem from="1552654428892" duration="10313000" />
+      <workItem from="1553001250057" duration="26722000" />
+      <workItem from="1553094951942" duration="9545000" />
+      <workItem from="1553334981625" duration="6673000" />
+      <workItem from="1553618465947" duration="46047000" />
+      <workItem from="1553813879721" duration="2497000" />
+      <workItem from="1553871346024" duration="599000" />
+      <workItem from="1553945076882" duration="29165000" />
+      <workItem from="1554203640101" duration="24707000" />
+      <workItem from="1554287409641" duration="55744000" />
+      <workItem from="1554808116359" duration="20662000" />
+      <workItem from="1554890239548" duration="44710000" />
+      <workItem from="1555059179402" duration="43466000" />
+      <workItem from="1555277911365" duration="28103000" />
+      <workItem from="1555411665240" duration="12275000" />
+      <workItem from="1556049281809" duration="5175000" />
+      <workItem from="1556133263584" duration="597000" />
+      <workItem from="1558019113280" duration="621000" />
+      <workItem from="1558096319936" duration="8999000" />
+      <workItem from="1558128905404" duration="2287000" />
+      <workItem from="1558174954146" duration="22443000" />
+      <workItem from="1558260722666" duration="29140000" />
+      <workItem from="1558345105107" duration="55845000" />
+      <workItem from="1558598214084" duration="643000" />
+      <workItem from="1559660358152" duration="66000" />
+      <workItem from="1560800664591" duration="20575000" />
+      <workItem from="1566919494763" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Display_text_wrapper_please - 2019.04.02 at 13h 16m 47s.xml">
+      <configuration name="Display.text wrapper please" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Header - 2019.04.02 at 18h 48m 16s.xml">
+      <configuration name="Header" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Login - 2019.05.18 at 12h 26m 24s.xml">
+      <configuration name="Login" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Login_login_should_return_fail_by_default - 2019.05.18 at 12h 26m 40s.xml">
+      <configuration name="Login.login should return fail by default" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Array - 2019.05.19 at 11h 49m 39s.xml">
+      <configuration name="Array" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Home_Page - 2019.05.19 at 11h 52m 38s.xml">
+      <configuration name="Home Page" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Array - 2019.05.19 at 11h 52m 52s.xml">
+      <configuration name="Array" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Home_Page - 2019.05.19 at 11h 58m 14s.xml">
+      <configuration name="Home Page" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Home_Page - 2019.05.19 at 12h 00m 24s.xml">
+      <configuration name="Home Page" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Home_Page - 2019.05.19 at 12h 01m 38s.xml">
+      <configuration name="Home Page" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="931117000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1600" height="900" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57011795" visible="true" weight="0.16731016" />
+      <window_info id="Structure" order="1" sideWeight="0.42988205" side_tool="true" weight="0.10401721" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008264" side_tool="true" weight="0.15637065" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4975097" weight="0.27292576" />
+      <window_info anchor="bottom" x="1507" y="64" width="1853" height="1016" id="Run" order="2" sideWeight="0.50645626" side_tool="true" weight="0.4180865" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4991699" weight="0.5742358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896462" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49354374" weight="0.4180865" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32896462" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4985653" weight="0.6671035" />
+      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.49928263" weight="0.32896462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3292683" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57011795" visible="true" weight="0.20659971" />
+      <window_info id="Structure" order="1" sideWeight="0.42988205" side_tool="true" weight="0.10401721" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008264" side_tool="true" weight="0.15637065" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4978479" weight="0.27391875" />
+      <window_info anchor="bottom" x="1507" y="64" width="1853" height="1016" id="Run" order="2" sideWeight="0.5021521" side_tool="true" weight="0.27391875" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.5742358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896462" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49569583" weight="0.4180865" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32896462" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896462" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32896462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32947233" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/Loading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="5227" column="4" selection-start-line="5227" selection-start-column="4" selection-end-line="5227" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Sidebar_option.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/LandingPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Verify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/NewUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Display.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="384" column="16" selection-start-line="384" selection-start-column="16" selection-end-line="384" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/delete-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/DragContextSidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-930">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Classify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="273" column="80" selection-start-line="273" selection-start-column="80" selection-end-line="273" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Classify.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/TestAccuracy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/BatchAccuracy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Chartconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="411" column="1" selection-start-line="411" selection-start-column="1" selection-end-line="411" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Chart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="79" column="18" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/AllAccuracy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Design.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="465" column="48" selection-start-line="465" selection-start-column="48" selection-end-line="465" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Layers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/button.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/LandingPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs-layers/dist/engine/training_tensors.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs-core/dist/tf-core.esm.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs-core/dist/tf-core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs/dist/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.enzyme.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/5f27842ee4064106e76131bb7c423489.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-615" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/lcov-report/prettify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3110" selection-start-line="1" selection-start-column="3110" selection-end-line="1" selection-end-column="3110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="126" column="85" selection-start-line="126" selection-start-column="85" selection-end-line="126" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/RealtimeAnalysis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs-core/dist/tf-core.esm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" column="180846" selection-start-line="16" selection-start-column="180827" selection-end-line="16" selection-end-column="180846" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tensorflow/tfjs-layers/dist/engine/training.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="407" column="4" selection-start-line="407" selection-start-column="4" selection-end-line="407" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Analyse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4785">
+          <caret line="332" column="54" selection-start-line="332" selection-start-column="54" selection-end-line="332" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Train.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8925">
+          <caret line="616" column="28" selection-start-line="616" selection-start-column="28" selection-end-line="616" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/DesignSummary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Summary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

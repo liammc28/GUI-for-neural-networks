@@ -1,0 +1,1 @@
+{"layers": [{"type": "Convolutional", "layerConfig": {"kernelInitializer": "varianceScaling", "activation": "relu", "kernelSize": 2, "strides": 1, "filters": 8, "inputShape": [28, 28, 1]}}, {"type": "Flatten", "layerConfig": {}}, {"type": "Dense", "layerConfig": {"units": 127, "activation": "relu"}}], "dataset": "mnist"}

@@ -1,0 +1,1 @@
+[{"type": "Dense", "layerConfig": {"inputShape": [28, 28, 1]}}, {"type": "Dense", "layerConfig": {"units": 1000, "activation": "relu"}}, {"type": "Dense", "layerConfig": {"units": 40, "activation": "relu"}}]

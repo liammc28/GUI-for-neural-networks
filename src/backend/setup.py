@@ -1,0 +1,11 @@
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLALCHEMY_DATABASE_URI= 'mysql://admin:Leeds74!@localhost/Neural_network_users'
+CORS_HEADERS = 'Content-Type'
+SECRET_KEY = 'sercet'
+DEBUG = True
+MAIL_SERVER = 'smtp.googlemail.com'
+MAIL_PORT = 465
+MAIL_USE_TLS = False
+MAIL_USE_SSL = True
+MAIL_USERNAME = 'mcaweeneyl@gmail.com'
+MAIL_PASSWORD = 'liammc28'

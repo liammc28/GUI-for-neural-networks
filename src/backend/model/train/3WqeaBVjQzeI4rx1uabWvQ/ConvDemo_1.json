@@ -1,0 +1,1 @@
+{"sizeOfTrainingInputs": "3000", "epochAccuracy": {"acc": [29.851850867271423], "val_acc": [43.00000071525574], "label": [1]}, "trainEpochs": "1", "trainingTime": 6051.049999994575, "training_name": "ConvDemo_1", "epochLoss": {"loss": [217.91613101959229], "val_loss": [196.8903660774231], "label": [1]}, "batchSize": 600, "testAccuracy": 48.500001430511475, "validationSplit": 0.1}

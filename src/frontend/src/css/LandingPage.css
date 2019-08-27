@@ -1,0 +1,87 @@
+.scrollable-display{
+    height: auto;
+    max-height:500px;
+    overflow-x: hidden;
+}
+.background_color{
+    height: 100%;
+    background: -moz-linear-gradient(270deg, rgba(34,46,64,1) 0%, rgba(81,195,184,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(34,46,64,1)), color-stop(100%, rgba(81,195,184,1)));
+    background: -webkit-linear-gradient(270deg, rgba(34,46,64,1) 0%, rgba(81,195,184,1) 100%);
+    background: linear-gradient(180deg, rgba(34,46,64,1) 0%, rgba(81,195,184,1) 100%);
+    overflow:hidden;
+}
+.landing_card{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.card_info{
+    background: -moz-linear-gradient(90deg, rgba(62,181,169,1) 0%, rgba(111,226,204,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(111,226,204,1)), color-stop(100%, rgba(62,181,169,1)));
+    background: -webkit-linear-gradient(90deg, rgba(62,181,169,1) 0%, rgba(111,226,204,1) 100%);
+    background: linear-gradient(0deg, rgba(62,181,169,1) 0%, rgba(111,226,204,1) 100%);
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    overflow: hidden;
+}
+.card_content{
+    background: -moz-linear-gradient(48deg, rgba(42,46,54,1) 0%, rgba(97,107,125,1) 100%);
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(42,46,54,1)), color-stop(100%, rgba(97,107,125,1)));
+    background: -webkit-linear-gradient(48deg, rgba(42,46,54,1) 0%, rgba(97,107,125,1) 100%);
+    background: linear-gradient(42deg, rgba(42,46,54,1) 0%, rgba(97,107,125,1) 100%);
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    color: #ccc;
+}
+.active_button{
+    background-color: transparent;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: aqua 2px solid;
+    color: #ccc;
+}
+.disabled_button:hover{
+    background-color: transparent;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: aqua 2px solid;
+    color: #ccc;
+}
+.disabled_button{
+    background-color: transparent;
+    border: 0;
+    color: #ccc;
+}
+
+.terms{
+    color: black;
+    background-color: white;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.big_logo{
+    max-width: 100%;
+    max-height: 100%;
+}
+.secondary_button:hover{
+    background-color: transparent;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: aqua 2px solid;
+    color: #ccc;
+}
+.secondary_button{
+    background-color: transparent;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: transparent 2px solid;
+    color: #ccc;
+}

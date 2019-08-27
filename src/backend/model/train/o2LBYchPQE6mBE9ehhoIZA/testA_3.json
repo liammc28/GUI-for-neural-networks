@@ -1,0 +1,1 @@
+{"sizeOfTrainingInputs": "1500", "epochAccuracy": {"acc": [13.629630208015442], "val_acc": [26.000002026557922], "label": [1]}, "trainEpochs": "1", "trainingTime": 1243.4199999988778, "training_name": "testA_3", "epochLoss": {"loss": [229.3726921081543], "val_loss": [209.50398445129395], "label": [1]}, "batchSize": 400, "testAccuracy": 31.35000169277191, "validationSplit": 0.1}

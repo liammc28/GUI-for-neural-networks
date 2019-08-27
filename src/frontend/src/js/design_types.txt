@@ -1,0 +1,14 @@
+basic design containing only dense layers of varying number of nodes.
+let model = tf.sequential();
+model.add(tf.layers.flatten({inputShape:[IMAGE_W,IMAGE_H,1]}));
+
+const tests = [{input:20},{input:64},{input:128},{input:32}];
+tests.map((test)=>{
+    let nodes = parseInt(test.input);
+    model.add(tf.layers.dense({units:nodes,activation:'relu'}));
+});
+model.add(tf.layers.dense({
+    units: 10,
+    kernelInitializer: 'varianceScaling',
+    activation: 'softmax'
+}));

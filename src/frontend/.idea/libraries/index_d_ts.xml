@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="index.d.ts" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file:///usr/local/lib/node_modules/@types/jest/index.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file:///usr/local/lib/node_modules/@types/jest/index.d.ts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

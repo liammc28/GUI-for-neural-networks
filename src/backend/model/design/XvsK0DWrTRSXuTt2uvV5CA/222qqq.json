@@ -1,0 +1,1 @@
+{"layers": [{"type": "Dropout", "layerConfig": {"inputShape": [28, 28, 1]}}, {"type": "Dense", "layerConfig": {"units": 1000, "activation": "sigmoid"}}], "dataset": "mnist"}

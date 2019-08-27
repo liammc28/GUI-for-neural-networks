@@ -1,0 +1,121 @@
+.sidebar{
+    padding: 8px;
+    /*height: 100%;*/
+    position: fixed;
+
+}
+.sidebar_color{
+    background-color: #f8f9fa;
+    border-right: 2px solid lightgray;
+}
+.sidebar_title{
+    padding: 8px;
+}
+.sidebar_options{
+    padding:8px;
+}
+.sidebar_height{
+    height: 100%;
+}
+.sidebar_option{
+    padding:8px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin-bottom: 8px;
+    background-color: white;
+}
+.sidebar_option_drag{
+    border: 3px solid red;
+    padding-top: 5px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: white;
+    z-index: 100;
+}
+.max_height{
+    height: 100%;
+}
+.overwrite{
+    color: red;
+}
+.test_border{
+    height:80px;
+    width: 80px;
+    border: 4px solid yellow;
+    border-radius: 40px;
+    background-color: black;
+}
+.bin{
+    bottom: 100px;
+    right: 600px;
+}
+
+.range {
+    -webkit-appearance: none;
+    outline: none;
+    background: darkblue;
+    height: 6px;
+    width: 200px;
+    border-radius: 5px;
+}
+.range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: darkblue;
+}
+
+.output {
+    background: darkblue;
+    color: #fff;
+    border-radius: 2px;
+    padding: 3px 7px;
+    margin: 0px 10px;
+    text-align: center;
+    position: relative;
+   border-left-color: white;
+}
+
+.output::before {
+    content: '';
+    position: absolute;
+    left: -12px;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 0;
+    width: 0;
+    border: solid 6px darkblue;
+    z-index: -1;
+    border-top-color: white;
+    border-bottom-color: white;
+}
+.rotating_icon{
+    margin-top: 300px;
+}
+
+.rotate{
+    height: 400px;
+    width: 400px;
+    animation: circle 8s linear infinite;
+    transform-origin:50% 150px;
+}
+
+
+.anti_rotate{
+    height: 400px;
+    width: 400px;
+    animation: inner-circle 8s linear infinite;
+}
+
+@keyframes circle {
+    from { transform:rotate(0deg); }
+    to { transform:rotate(360deg); }
+}
+
+@keyframes inner-circle {
+    from { transform:rotate(0deg); }
+    to { transform:rotate(-360deg); }
+}

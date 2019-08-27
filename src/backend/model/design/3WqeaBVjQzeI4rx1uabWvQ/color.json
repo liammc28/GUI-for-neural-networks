@@ -1,0 +1,1 @@
+{"layers": [{"type": "Dense", "layerConfig": {"units": 400, "inputShape": [3], "activation": "relu"}}, {"type": "Dropout", "layerConfig": {"rate": 0.25}}, {"type": "Dense", "layerConfig": {"units": 64, "activation": "relu"}}], "dataset": "color"}

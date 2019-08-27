@@ -1,0 +1,1 @@
+{"layers": [{"type": "Dense", "layerConfig": {"units": 50, "inputShape": [3], "activation": "sigmoid"}}, {"type": "Dense", "layerConfig": {"units": 150, "activation": "sigmoid"}}, {"type": "Dropout", "layerConfig": {"rate": 0.25}}, {"type": "Dense", "layerConfig": {"units": 40, "activation": "sigmoid"}}], "dataset": "color"}
